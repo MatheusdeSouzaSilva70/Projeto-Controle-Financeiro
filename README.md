@@ -1,4 +1,5 @@
-https://github.com/MatheusdeSouzaSilva70/Projeto-Controle-Financeiro/blob/main/projeto%20react.png
+![img](https://github.com/MatheusdeSouzaSilva70/Projeto-Controle-Financeiro/blob/main/projeto%20react.png)
+
 ## Recursos
 - Responsivo 100%
 
@@ -9,4 +10,3 @@ https://github.com/MatheusdeSouzaSilva70/Projeto-Controle-Financeiro/blob/main/p
 
 ## Autor:
 **Matheus de Souza Silva**
-Se você quiser, pode acessar o projeto clicando bem [__aqui__](https://financereact.netlify.app/)
